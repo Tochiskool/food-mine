@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/food-mine/static/css/main.bee7869f.css",
-    "main.js": "/food-mine/static/js/main.a7c810a1.js",
+    "main.js": "/food-mine/static/js/main.5489a757.js",
     "index.html": "/food-mine/index.html",
     "main.bee7869f.css.map": "/food-mine/static/css/main.bee7869f.css.map",
-    "main.a7c810a1.js.map": "/food-mine/static/js/main.a7c810a1.js.map"
+    "main.5489a757.js.map": "/food-mine/static/js/main.5489a757.js.map"
   },
   "entrypoints": [
     "static/css/main.bee7869f.css",
-    "static/js/main.a7c810a1.js"
+    "static/js/main.5489a757.js"
   ]
 }
