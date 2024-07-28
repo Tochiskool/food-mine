@@ -28,7 +28,3 @@ const StarRating = ({ stars, size }) => {
 };
 
 export default StarRating;
-
-StarRating.defaultProps = {
-  size: 18,
-};
