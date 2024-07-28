@@ -5,7 +5,7 @@ import ErrorHanling from "./components/ErrorHandling/ErrorHanling";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/food-mine",
     element: <Header />,
     errorElement: <ErrorHanling />,
   },
