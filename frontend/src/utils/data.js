@@ -7,7 +7,7 @@ const sample_foods = [
     favorite: false,
     origins: ["Italy"],
     stars: 4.5,
-    imageUrl: "food-1.jpg",
+    imageUrl: "food-1.png",
     tags: ["FastFood", "Pizza", "Lunch"],
   },
 
@@ -19,7 +19,7 @@ const sample_foods = [
     favorite: false,
     origins: ["USA"],
     stars: 4.5,
-    imageUrl: "food-2.jpg",
+    imageUrl: "food-2.png",
     tags: ["FastFood", "Pizza", "Lunch"],
   },
   {
@@ -30,7 +30,7 @@ const sample_foods = [
     favorite: true,
     origins: ["Persia", "Middle east", "China"],
     stars: 6,
-    imageUrl: "food-3.jpg",
+    imageUrl: "food-3.png",
     tags: ["FastFood", "Pizza", "Lunch"],
   },
   {
@@ -41,7 +41,7 @@ const sample_foods = [
     favorite: true,
     origins: ["Italy"],
     stars: 7,
-    imageUrl: "food-4.jpg",
+    imageUrl: "food-4.png",
     tags: ["FastFood", "Turkey"],
   },
   {
@@ -52,7 +52,7 @@ const sample_foods = [
     favorite: true,
     origins: ["Italy"],
     stars: 5,
-    imageUrl: "food-5.jpg",
+    imageUrl: "food-5.png",
     tags: ["FastFood", "Lunch"],
   },
   {
@@ -63,7 +63,7 @@ const sample_foods = [
     favorite: true,
     origins: ["Italy"],
     stars: 7,
-    imageUrl: "food-6.jpg",
+    imageUrl: "food-6.png",
     tags: ["FastFood", "Italian", "Lunch"],
   },
 ];
